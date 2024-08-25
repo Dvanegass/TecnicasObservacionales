@@ -1,6 +1,6 @@
 Proyecto en conjunto con los estudiantes del curso Técnicas Observacionales del Observatorio Astronómico Nacional de la Universidad Nacional de Colombia.
 
-Presentamos UNphot.py, una herramienta computacional que utiliza fotometría obtenida del instrumento IRAC de Spitzer y el catálogo GAIA EDR3. Nuestra estrategia consiste en buscar la presencia de rasgos típicos de ETT tales como la línea de Hα en emisión y en particular medir su ancho equivalente con espectroscopía usando Py-spectutils.
+Presentamos UNphot.py, una herramienta computacional que utiliza fotometría obtenida del instrumento IRAC de Spitzer y el catálogo GAIA EDR3 para encontrar estrellas T-Tauris. Nuestra estrategia consiste en buscar la presencia de rasgos típicos de ETT tales como la línea de Hα en emisión y en particular medir su ancho equivalente con espectroscopía usando Py-spectutils.
 
 Aplicamos UNphot.py a cinco regiones de formación estelar (NGC2264, B30, IC 348, LDN1588 y B35) y se encontraron en total 25 ETT entre las 5 regiones.
 
